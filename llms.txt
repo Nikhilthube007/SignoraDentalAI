@@ -1,0 +1,15 @@
+# Signora AI
+> AI receptionist software for US dental practices.
+
+## Core Pages
+- [Home](https://signoraai.com/): 24/7 AI receptionist for dental clinics.
+- [Blog](https://signoraai.com/blog.html): Guides on dental AI receptionists and call answering.
+- [Best AI Receptionist in the US](https://signoraai.com/best-ai-receptionist-us.html): Buying criteria for dental practices comparing AI receptionists.
+- [AI Solutions for Dental Clinics](https://signoraai.com/ai-solutions-dental-clinics.html): Practical AI use cases for dental front desks.
+- [What Is an AI Receptionist?](https://signoraai.com/ai-receptionist.html): Definition, workflows, and limits.
+
+## Key Facts
+- Signora AI serves US dental practices.
+- Signora AI answers patient calls, books appointments, manages reschedules, and transfers complex issues to staff.
+- Signora AI is designed for front-desk workflows and does not provide clinical advice.
+- Contact: ai.signora.in@gmail.com
